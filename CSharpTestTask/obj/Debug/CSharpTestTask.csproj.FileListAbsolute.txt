@@ -1,0 +1,7 @@
+D:\Education\In the pursuit of the programming\CSharpTestTask\CSharpTestTask\CSharpTestTask\obj\Debug\CSharpTestTask.csprojAssemblyReference.cache
+D:\Education\In the pursuit of the programming\CSharpTestTask\CSharpTestTask\CSharpTestTask\obj\Debug\CSharpTestTask.csproj.CoreCompileInputs.cache
+D:\Education\In the pursuit of the programming\CSharpTestTask\CSharpTestTask\CSharpTestTask\bin\Debug\CSharpTestTask.exe.config
+D:\Education\In the pursuit of the programming\CSharpTestTask\CSharpTestTask\CSharpTestTask\bin\Debug\CSharpTestTask.exe
+D:\Education\In the pursuit of the programming\CSharpTestTask\CSharpTestTask\CSharpTestTask\bin\Debug\CSharpTestTask.pdb
+D:\Education\In the pursuit of the programming\CSharpTestTask\CSharpTestTask\CSharpTestTask\obj\Debug\CSharpTestTask.exe
+D:\Education\In the pursuit of the programming\CSharpTestTask\CSharpTestTask\CSharpTestTask\obj\Debug\CSharpTestTask.pdb
