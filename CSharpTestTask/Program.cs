@@ -21,7 +21,7 @@ namespace CSharpTestTask
 
             // Postprocess stuff
 
-            return result
+            return result;
         }
     }
 }
